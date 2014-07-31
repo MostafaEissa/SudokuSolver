@@ -1,7 +1,8 @@
 # Sudoku Solver
 
 
-A library that tries to solve Sudoku puzzles using graph coloring. For more information you can check my article [A Sudoku Solver using Graph Coloring](http://www.codeproject.com/Articles/801268/A-Sudoku-Solver-using-Graph-Coloring).
+A library that tries to solve Sudoku puzzles using graph coloring.
+For more information you can check my article [A Sudoku Solver using Graph Coloring](http://www.codeproject.com/Articles/801268/A-Sudoku-Solver-using-Graph-Coloring).
 
 ## How does it work?
 
